@@ -29,18 +29,21 @@ https://trufflesuite.com/docs/ganache/
 
 # Usage 
 
-In the terminal naviagate to fintech_finder app.py  and run streamlit app, Selected candidate "Jo" and hired for 1 hour and click on the send transaction. 
+In the terminal navigate to fintech_finder app.py  and run streamlit app, Selected candidate "Jo" and hired for 1 hour and click  send transaction, hash code validated.
 
 ![confirmation](https://github.com/mbhat83/Module19_Assignment/blob/main/Screenshots/confirmation.PNG)
 
-Naviagted to Ganache app check the balance on the Ethereum account. 
+Naviagte to Ganache app check the balance on the Ethereum account. 
 
 ![Balance](https://github.com/mbhat83/Module19_Assignment/blob/main/Screenshots/Balance.PNG)
 
-Navigated to Transaction section of Ganache and confirmed the transaction 
+Navigate to Transaction section of Ganache and confirmed the transaction 
 
 ![transaction](https://github.com/mbhat83/Module19_Assignment/blob/main/Screenshots/transaction.PNG)
 
+
+Contributors
+Madhuri 
 
 
 
